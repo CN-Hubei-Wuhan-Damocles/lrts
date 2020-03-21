@@ -1,0 +1,65 @@
+{
+  "id": "1697772",
+  "name": "lrts",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "814473",
+      "name": "筛选",
+      "font_class": "shaixuan",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "5391606",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "5849180",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "436021",
+      "name": "账号管理",
+      "font_class": "zhanghaoguanli",
+      "unicode": "e80a",
+      "unicode_decimal": 59402
+    },
+    {
+      "icon_id": "634607",
+      "name": "音乐_music216",
+      "font_class": "yinlemusic216",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "1004394",
+      "name": "三角",
+      "font_class": "sanjiao",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1013070",
+      "name": "听音乐",
+      "font_class": "kefu",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "11372762",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    }
+  ]
+}
